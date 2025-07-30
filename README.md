@@ -22,7 +22,7 @@ This is a basic **Single Page Application (SPA)** built with React. It displays 
 - **HTML + CSS**
 
 ## 📁 Folder Structure
----
+
 basic-website/
 ├── public/
 ├── src/
@@ -33,7 +33,20 @@ basic-website/
 ├── package.json
 ├── vite.config.js
 └── README.md
----
+
+## 📁 Folder Structure
+
+basic-website/
+  public/
+  src/
+    components/
+    App.jsx
+    main.jsx
+  index.html
+  package.json
+  vite.config.js
+  README.md
+
 bash
 Copy
 Edit
@@ -72,4 +85,5 @@ node_modules/ (already ignored in .gitignore)
 dist/ (Netlify will build this automatically)
 
 🙌 Acknowledgements
+
 Developed as a learning project.

@@ -20,7 +20,7 @@ This is a basic **Single Page Application (SPA)** built with React. It displays 
 - **React**
 - **Vite** (for faster development/build)
 - **HTML + CSS**
-
+```
 ## 📁 Folder Structure
 
 basic-website/
@@ -33,19 +33,8 @@ basic-website/
 ├── package.json
 ├── vite.config.js
 └── README.md
+```
 
-## 📁 Folder Structure
-
-basic-website/
-  public/
-  src/
-    components/
-    App.jsx
-    main.jsx
-  index.html
-  package.json
-  vite.config.js
-  README.md
 
 bash
 Copy
